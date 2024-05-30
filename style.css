@@ -1,0 +1,21 @@
+form{
+    color: gold;
+    width: "500";
+    height: "1000";
+    background-color: black;
+    text-align: center;
+    border-radius: 30px;
+}
+button{
+    color: azure;
+    background-color: darkgreen;
+text-align: center;
+width: 200px;
+height: 30px;
+border-radius: 30px;
+}
+input{
+    width: 250px;
+    height: 30px;
+    border-radius: 20px;
+}
